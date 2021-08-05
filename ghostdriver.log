@@ -1,0 +1,696 @@
+[INFO  - 2020-03-27T14:29:45.294Z] GhostDriver - Main - running on port 56530
+[INFO  - 2020-03-27T14:29:45.739Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-03-27T14:29:45.739Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.customHeaders:  - {}
+[INFO  - 2020-03-27T14:29:45.739Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-03-27T14:29:45.739Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 67ed0440-7037-11ea-8e6e-c79ef4c6b11a
+[ERROR - 2020-03-27T14:30:23.223Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.223Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.264Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.264Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.293Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.293Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.393Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.393Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:2260)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.408Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.409Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.485Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:23.485Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:28.144Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:28.144Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:52.412Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:52.413Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:52.609Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:52.609Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.770Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$(function() { if (typeof(bread ) != 'undefined') bread.checkout(opts); })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.770Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.822Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$(document)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.823Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984500000-4-1-2-x-12-5-8-inch-self-install-dividing-system-including-lid.html:2260)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.842Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.fn')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.843Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.931Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:54.932Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:55.029Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:30:55.029Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-03-27T14:34:45.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-03-27T14:36:12.597Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.597Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.753Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.753Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.768Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.768Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.789Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: products_data
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.789Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1677)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.793Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: products_data
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.794Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1727)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.796Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.796Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1782)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.821Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.821Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:2407)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.838Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.838Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.905Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.905Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.910Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:36:12.910Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-03-27T14:39:45.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-03-27T14:41:29.650Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.650Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.778Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.778Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.796Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.796Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.823Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: products_data
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.824Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1677)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.829Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: products_data
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.829Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1727)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.833Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.834Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:1783)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.882Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.883Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv984600000-4-1-2-x-14-5-8-inch-self-install-dividing-system-including-lid.html:2408)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.902Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.902Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.978Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:29.978Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:36.453Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:36.453Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:54.165Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:54.165Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:54.285Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:54.285Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.077Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$(function() { if (typeof(bread ) != 'undefined') bread.checkout(opts); })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.077Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.094Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.094Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:1590)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.125Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$(document)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.125Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:2372)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.126Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.126Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:2404)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.141Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.fn')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.141Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.207Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.207Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.286Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:41:55.287Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.097Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.098Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.207Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.208Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.233Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.234Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.256Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.256Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:1590)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.287Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.287Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:2372)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.288Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.288Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9910-7-1-4-x-3-7-8-inch-1-box-material-mix-in-acrylic-glass-and-solid-wood.html:2404)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.302Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.302Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.366Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.366Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.371Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:35.371Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.405Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.405Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.502Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.502Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.530Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.530Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.550Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.550Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:1590)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.607Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.617Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:2376)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.618Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.618Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:2408)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.639Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.639Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.709Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.709Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.720Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:42:55.720Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-03-27T14:44:45.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-03-27T14:48:20.085Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.085Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:311)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.158Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.158Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:977)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.172Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.172Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:1361)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.188Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.189Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:1590)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.222Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.222Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:2376)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.223Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.223Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9939-4-1-4-x-12-5-8-inch-interior-module-narrow-grooved-storage.html:2408)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.235Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.235Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_240d021f14c8ced58f90530330efdbe2.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.300Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.300Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.305Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:48:20.305Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.138Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.138Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:312)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.244Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.244Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:978)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.247Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.248Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1154)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.248Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:01.248Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1226)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.067Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$(function() { if (typeof(bread ) != 'undefined') bread.checkout(opts); })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.067Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1511)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.082Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.082Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1746)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.117Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$(document)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.117Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:2541)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.118Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.118Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:2573)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.136Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.fn')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.136Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://www.kbauthority.com/var/cache/_8e1d4dfdbc203662b80ac4bb9aa9a76b.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.215Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.215Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.300Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:49:03.300Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-03-27T14:49:45.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-03-27T14:50:00.980Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:00.981Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:312)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.089Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.089Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:978)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.091Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.091Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1154)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.091Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.091Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1226)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.105Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.105Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1511)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.123Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.123Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:1746)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.155Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.155Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:2541)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.155Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: check_options
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.156Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/duravit-uv9940-4-1-4-x-14-5-8-inch-interior-modul-narrow-grooved-storage.html:2573)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.171Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.171Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  global code (https://www.kbauthority.com/var/cache/_8e1d4dfdbc203662b80ac4bb9aa9a76b.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.235Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'o.support')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.236Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  (anonymous function) (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  i (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+  s (https://cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.240Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - msg: ReferenceError: Can't find variable: Audio
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-27T14:50:01.240Z] Session [67ed0440-7037-11ea-8e6e-c79ef4c6b11a] - page.onError - stack:
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+  (anonymous function) (https://cdn.livechatinc.com/tracking.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-03-27T14:54:45.307Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-27T14:59:45.311Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-27T15:04:45.325Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
